@@ -12,5 +12,8 @@ This is an repository for recording what I learn about Python3.
 ### Websites
 
 1. [Real Python](https://realpython.com/)
+2. [Python Design Patterns](https://refactoring.guru/design-patterns/python)
 
 ### Books
+
+### Questions
